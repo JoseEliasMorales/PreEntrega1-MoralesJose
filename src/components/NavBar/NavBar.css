@@ -1,0 +1,21 @@
+.navbar{
+    justify-content: space-around;
+}
+
+.logo{
+    width: 20vw;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+    padding-right: 5vw;
+}
+
+.lista{
+    list-style: none;
+    display: flex;
+    gap: 2vw;
+    padding-right:5vw ;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
